@@ -1,0 +1,13 @@
+D:\vs\c#\SaveAndLoadFile\SaveAndLoadFile\bin\Debug\netcoreapp3.1\SaveAndLoadFile.exe
+D:\vs\c#\SaveAndLoadFile\SaveAndLoadFile\bin\Debug\netcoreapp3.1\SaveAndLoadFile.deps.json
+D:\vs\c#\SaveAndLoadFile\SaveAndLoadFile\bin\Debug\netcoreapp3.1\SaveAndLoadFile.runtimeconfig.json
+D:\vs\c#\SaveAndLoadFile\SaveAndLoadFile\bin\Debug\netcoreapp3.1\SaveAndLoadFile.runtimeconfig.dev.json
+D:\vs\c#\SaveAndLoadFile\SaveAndLoadFile\bin\Debug\netcoreapp3.1\SaveAndLoadFile.dll
+D:\vs\c#\SaveAndLoadFile\SaveAndLoadFile\bin\Debug\netcoreapp3.1\SaveAndLoadFile.pdb
+D:\vs\c#\SaveAndLoadFile\SaveAndLoadFile\obj\Debug\netcoreapp3.1\SaveAndLoadFile.csprojAssemblyReference.cache
+D:\vs\c#\SaveAndLoadFile\SaveAndLoadFile\obj\Debug\netcoreapp3.1\SaveAndLoadFile.AssemblyInfoInputs.cache
+D:\vs\c#\SaveAndLoadFile\SaveAndLoadFile\obj\Debug\netcoreapp3.1\SaveAndLoadFile.AssemblyInfo.cs
+D:\vs\c#\SaveAndLoadFile\SaveAndLoadFile\obj\Debug\netcoreapp3.1\SaveAndLoadFile.csproj.CoreCompileInputs.cache
+D:\vs\c#\SaveAndLoadFile\SaveAndLoadFile\obj\Debug\netcoreapp3.1\SaveAndLoadFile.dll
+D:\vs\c#\SaveAndLoadFile\SaveAndLoadFile\obj\Debug\netcoreapp3.1\SaveAndLoadFile.pdb
+D:\vs\c#\SaveAndLoadFile\SaveAndLoadFile\obj\Debug\netcoreapp3.1\SaveAndLoadFile.genruntimeconfig.cache
