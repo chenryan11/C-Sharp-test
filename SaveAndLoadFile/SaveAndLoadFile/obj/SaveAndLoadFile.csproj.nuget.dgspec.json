@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\vs\\c#\\SaveAndLoadFile\\SaveAndLoadFile\\SaveAndLoadFile.csproj": {}
+    "D:\\git\\C-Sharp-test\\SaveAndLoadFile\\SaveAndLoadFile\\SaveAndLoadFile.csproj": {}
   },
   "projects": {
-    "D:\\vs\\c#\\SaveAndLoadFile\\SaveAndLoadFile\\SaveAndLoadFile.csproj": {
+    "D:\\git\\C-Sharp-test\\SaveAndLoadFile\\SaveAndLoadFile\\SaveAndLoadFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vs\\c#\\SaveAndLoadFile\\SaveAndLoadFile\\SaveAndLoadFile.csproj",
+        "projectUniqueName": "D:\\git\\C-Sharp-test\\SaveAndLoadFile\\SaveAndLoadFile\\SaveAndLoadFile.csproj",
         "projectName": "SaveAndLoadFile",
-        "projectPath": "D:\\vs\\c#\\SaveAndLoadFile\\SaveAndLoadFile\\SaveAndLoadFile.csproj",
+        "projectPath": "D:\\git\\C-Sharp-test\\SaveAndLoadFile\\SaveAndLoadFile\\SaveAndLoadFile.csproj",
         "packagesPath": "C:\\Users\\chenr\\.nuget\\packages\\",
-        "outputPath": "D:\\vs\\c#\\SaveAndLoadFile\\SaveAndLoadFile\\obj\\",
+        "outputPath": "D:\\git\\C-Sharp-test\\SaveAndLoadFile\\SaveAndLoadFile\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chenr\\AppData\\Roaming\\NuGet\\NuGet.Config",

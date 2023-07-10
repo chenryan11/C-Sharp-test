@@ -11,3 +11,16 @@ D:\vs\c#\SaveAndLoadFile\SaveAndLoadFile\obj\Debug\netcoreapp3.1\SaveAndLoadFile
 D:\vs\c#\SaveAndLoadFile\SaveAndLoadFile\obj\Debug\netcoreapp3.1\SaveAndLoadFile.dll
 D:\vs\c#\SaveAndLoadFile\SaveAndLoadFile\obj\Debug\netcoreapp3.1\SaveAndLoadFile.pdb
 D:\vs\c#\SaveAndLoadFile\SaveAndLoadFile\obj\Debug\netcoreapp3.1\SaveAndLoadFile.genruntimeconfig.cache
+D:\git\C-Sharp-test\SaveAndLoadFile\SaveAndLoadFile\bin\Debug\netcoreapp3.1\SaveAndLoadFile.exe
+D:\git\C-Sharp-test\SaveAndLoadFile\SaveAndLoadFile\bin\Debug\netcoreapp3.1\SaveAndLoadFile.deps.json
+D:\git\C-Sharp-test\SaveAndLoadFile\SaveAndLoadFile\bin\Debug\netcoreapp3.1\SaveAndLoadFile.runtimeconfig.json
+D:\git\C-Sharp-test\SaveAndLoadFile\SaveAndLoadFile\bin\Debug\netcoreapp3.1\SaveAndLoadFile.runtimeconfig.dev.json
+D:\git\C-Sharp-test\SaveAndLoadFile\SaveAndLoadFile\bin\Debug\netcoreapp3.1\SaveAndLoadFile.dll
+D:\git\C-Sharp-test\SaveAndLoadFile\SaveAndLoadFile\bin\Debug\netcoreapp3.1\SaveAndLoadFile.pdb
+D:\git\C-Sharp-test\SaveAndLoadFile\SaveAndLoadFile\obj\Debug\netcoreapp3.1\SaveAndLoadFile.csprojAssemblyReference.cache
+D:\git\C-Sharp-test\SaveAndLoadFile\SaveAndLoadFile\obj\Debug\netcoreapp3.1\SaveAndLoadFile.AssemblyInfoInputs.cache
+D:\git\C-Sharp-test\SaveAndLoadFile\SaveAndLoadFile\obj\Debug\netcoreapp3.1\SaveAndLoadFile.AssemblyInfo.cs
+D:\git\C-Sharp-test\SaveAndLoadFile\SaveAndLoadFile\obj\Debug\netcoreapp3.1\SaveAndLoadFile.csproj.CoreCompileInputs.cache
+D:\git\C-Sharp-test\SaveAndLoadFile\SaveAndLoadFile\obj\Debug\netcoreapp3.1\SaveAndLoadFile.dll
+D:\git\C-Sharp-test\SaveAndLoadFile\SaveAndLoadFile\obj\Debug\netcoreapp3.1\SaveAndLoadFile.pdb
+D:\git\C-Sharp-test\SaveAndLoadFile\SaveAndLoadFile\obj\Debug\netcoreapp3.1\SaveAndLoadFile.genruntimeconfig.cache

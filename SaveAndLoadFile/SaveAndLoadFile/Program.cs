@@ -10,6 +10,8 @@ namespace SaveAndLoadFile
             loadFile();
 
             saveFile();
+
+            Console.ReadLine();
         }
 
         public static void loadFile()
@@ -18,21 +20,19 @@ namespace SaveAndLoadFile
 
             try
             {
-                //Pass the file path and file name to the StreamReader constructor
-                StreamReader sr = new StreamReader("D:\\vs\\c#\\SaveAndLoadFile\\SaveAndLoadFile\\test.txt");
-                //Read the first line of text
+                // 讀此路徑檔案
+                StreamReader sr = new StreamReader(".\\test.txt");
+                // 讀第一行資料
                 line = sr.ReadLine();
-                //Continue to read until you reach end of file
+                // 讀檔到最後一行
                 while (line != null)
                 {
-                    //write the line to console window
-                    Console.WriteLine(line);
-                    //Read the next line
+                    //Console.WriteLine(line);
+                    // 讀下一行
                     line = sr.ReadLine();
                 }
-                //close the file
+                // 關閉檔案
                 sr.Close();
-                Console.ReadLine();
             }
             catch (Exception e)
             {
@@ -40,38 +40,40 @@ namespace SaveAndLoadFile
             }
             finally
             {
-                Console.WriteLine("Executing finally block.");
+                //Console.WriteLine("Executing finally block.");
             }
         }
 
         public static void saveFile()
         {
-            string path = "D:\\vs\\c#\\SaveAndLoadFile\\SaveAndLoadFile\\file.txt";
+            string path = ".\\file.txt";
             string Text = "Hello and Welcome";
             using (StreamWriter writetext = new StreamWriter(path))
             {
                 writetext.WriteLine(Text);
+
+                Console.WriteLine("寫檔成功") ;
             }
 
-           /* try
-            {
-                //Pass the filepath and filename to the StreamWriter Constructor
-                StreamWriter sw = new StreamWriter("C:\\Test.txt");
-                //Write a line of text
-                sw.WriteLine("Hello World!!");
-                //Write a second line of text
-                sw.WriteLine("From the StreamWriter class");
-                //Close the file
-                sw.Close();
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine("Exception: " + e.Message);
-            }
-            finally
-            {
-                Console.WriteLine("Executing finally block.");
-            }*/
+            /* try
+             {
+                 //Pass the filepath and filename to the StreamWriter Constructor
+                 StreamWriter sw = new StreamWriter(".\\file.txt");
+                 //Write a line of text
+                 sw.WriteLine("Hello World!!");
+                 //Write a second line of text
+                 sw.WriteLine("From the StreamWriter class");
+                 //Close the file
+                 sw.Close();
+             }
+             catch (Exception e)
+             {
+                 Console.WriteLine("Exception: " + e.Message);
+             }
+             finally
+             {
+                 Console.WriteLine("Executing finally block.");
+             }*/
         }
     }
 }

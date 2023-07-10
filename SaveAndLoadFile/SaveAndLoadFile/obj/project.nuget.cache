@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qv7WeDgJ/9tkq6rl3y8X6QFSycJu+lRYFdzzNJNAbU2rI0vPQsgTaUWVIkiallwPbjDVjHi56rEv3cLlAUEv6w==",
+  "dgSpecHash": "Q5MCBA/EpRjUr6WE+bGOeiPapr8Y5uh+IPKSs0YKVVx2kBNwS0m8X2Tx5ivTXX7rFtFEsrGJUfsqhLioiZgEbg==",
   "success": true,
-  "projectFilePath": "D:\\vs\\c#\\SaveAndLoadFile\\SaveAndLoadFile\\SaveAndLoadFile.csproj",
+  "projectFilePath": "D:\\git\\C-Sharp-test\\SaveAndLoadFile\\SaveAndLoadFile\\SaveAndLoadFile.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chenr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
